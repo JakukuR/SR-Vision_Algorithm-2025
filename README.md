@@ -6,3 +6,4 @@
 #### [哨兵（国赛版本）]：[https://github.com/JakukuR/SR-Sentry-2025](https://github.com/JakukuR/SR-Sentry-2025)
 #### [无人机]：暂定
 #### [飞镖]：暂定
+#### [雷达]：暂定
